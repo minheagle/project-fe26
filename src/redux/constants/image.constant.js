@@ -1,0 +1,3 @@
+export const IMAGE_ACTION = {
+  CREATE_IMAGE: "IMAGE_ACTION/CREATE_IMAGE",
+};
